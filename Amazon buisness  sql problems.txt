@@ -1,0 +1,21 @@
+
+| # | Problem | Output |
+|--|---------|--------|
+| 1 | List all products with category & price | Product catalog |
+| 2 | Find users who posted reviews | Active users |
+| 3 | Count products in each category | Category-wise inventory |
+| 4 | Show average rating per product | Product feedback |
+| 5 | Join reviews with product & user names | Full review context |
+| 6 | Top 5 products by average rating (min 5 reviews) | Quality leaderboard |
+| 7 | Users who reviewed > 3 products | Engaged users |
+| 8 | Categories with avg. discount > 20% | Pricing insights |
+| 9 | Products with rating > 4.5 & discount > 30% | Best deal products |
+| 10 | Top 3 most reviewed products per category | Category popularity |
+| 11 | Product count per final category | Inventory breakdown |
+| 12 | Products with >6 reviews & rating <3.5 | Poor performing items |
+| 13 | Average price per category | Price benchmarking |
+| 14 | Top 5 products by rating count | Popular products |
+| 15 | Estimated revenue per product | Sales estimation |
+| 16 | Users who reviewed >5 distinct products | Power users |
+| 17 | Top 5 products with highest discount per category | Best offers |
+| 18 | Products with low rating but high review volume | Reputation risks |
